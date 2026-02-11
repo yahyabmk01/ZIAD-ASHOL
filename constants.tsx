@@ -8,7 +8,7 @@ export const SLIDES_CONTENT: SlideData[] = [
     title: 'المخدرات = تدمير مستقبلك',
     subtitle: 'حقائق مهمة يجب على كل طالب معرفتها',
     presenters: [
-      'زياد بومشكة', 'يحيى طورابي', 'مصعب سرغيني', 'شمس الدين حنان', 'عبد الله آيت أحمد إبراهيم'
+      'زياد بومشكة', 'يحيى تورابي', 'مصعب سرغيني', 'شمس الدين حنان', 'عبد الله آيت أحمد إبراهيم'
     ],
     // High-quality modern image of a student/teenager looking ahead
     imageUrl: 'https://images.unsplash.com/photo-1620065692611-92d81d646631?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
